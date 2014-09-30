@@ -1,4 +1,4 @@
-var calc = require('./build/Release/calc.node');
+var calc = require('./calc.node');
 
 var x = 1;
 console.log(x + ' in square: ' + calc.getSquare(x).x);

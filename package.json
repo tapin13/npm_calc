@@ -1,0 +1,40 @@
+{
+"name": "node-calc",
+"version": "0.0.1",
+"author": "tapin13 <tapin13@gmail.com>",
+"description": "calc - Module on C++ for NodeJS",
+"main": "",
+"repository": {
+"type": "git",
+"url": "git://github.com/tapin13/npm_calc.git"
+},
+"keywords": [
+"nodeapps",
+"helloworld"
+],
+"homepage": "https://github.com/tapin13/npm_calc.git",
+"scripts": {
+"start": "node ./bin/server"
+},
+"contributors": [
+{
+"name": "tapin13",
+"email": "tapin13@gmail.com"
+}
+],
+"dependencies": {},
+"devDependencies": {},
+"engines": {
+"node": ">=0.4"
+},
+"bugs": {
+"url": "https://github.com/tapin13/npm_calc/issues"
+},
+"licenses": [
+{
+"type": "MIT",
+"url": ""
+}
+],
+"analyze": false
+}
